@@ -8,8 +8,8 @@
 ## 📂 Estrutura de Projetos | Project Structure
 
 ### 💰 [Operacional & Financeiro / Operations & Finance](./01-operations-finance)
-**PT:** Ecossistema de Business Intelligence para gestão de fluxo de caixa e análise de liquidez em tempo real.  
-**EN:** Business Intelligence ecosystem for cash flow management and real-time liquidity analysis.
+**PT:** Business Intelligence para gestão de fluxo de caixa e análise de liquidez em tempo real.  
+**EN:** Business Intelligence for cash flow management and real-time liquidity analysis.
 
 ### 📈 [Comercial & Vendas / Commercial & Sales](./02-commercial-sales)
 **PT:** Análise de performance comercial (Northwind) e automação de processos de vendas.  
