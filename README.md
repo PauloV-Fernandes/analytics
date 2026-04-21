@@ -31,4 +31,4 @@
 **Frameworks:** Star Schema Modeling, ETL/ELT Pipelines
 
 ---
-📫 **Contacto | Contact:** [Seu LinkedIn Aqui]
+📫 **Contacto | Contact:** [www.linkedin.com/in/paulovfernandes]
