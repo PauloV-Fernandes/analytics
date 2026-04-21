@@ -19,7 +19,7 @@
 **PT:** Análise técnica e operacional voltada para o setor elétrico e energia renovável.  
 **EN:** Technical and operational analysis focused on the electricity and renewable energy sector.
 
-### 🧪 [Ciência de Dados / Data Science Legacy](./04-data-science)
+### 🧪 [Ciência de Dados / Data Science](./04-data-science)
 **PT:** Projetos de fundamentos estatísticos, modelagem preditiva e ciência de dados.  
 **EN:** Statistical fundamentals, predictive modeling, and data science projects.
 
