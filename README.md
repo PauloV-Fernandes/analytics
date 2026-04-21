@@ -15,7 +15,7 @@
 **PT:** Análise de performance comercial (Northwind) e automação de processos de vendas.  
 **EN:** Commercial performance analysis (Northwind) and sales process automation.
 
-### ⚡ [Energia / Energy Sector](./03-energy)
+### ⚡ [Energia / Energy Sector](./03-energy) - em construção
 **PT:** Análise técnica e operacional voltada para o setor elétrico e energia renovável.  
 **EN:** Technical and operational analysis focused on the electricity and renewable energy sector.
 
