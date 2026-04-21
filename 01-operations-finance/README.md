@@ -1,6 +1,6 @@
 # 💰 Operacional Financeiro | Operational Finance (Fluxo de Caixa)
 
-[PT] Desenvolvimento de um ecossistema de Business Intelligence para gestão de fluxo de caixa, permitindo análise de liquidez e saúde financeira em tempo real.
+[PT] Desenvolvimento de Business Intelligence para gestão de fluxo de caixa, permitindo análise de liquidez e saúde financeira em tempo real.
 [EN] Business Intelligence ecosystem for cash flow management, enabling real-time liquidity and financial health analysis.
 
 ---
